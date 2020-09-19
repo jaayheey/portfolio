@@ -1,2 +1,0 @@
-# portfolio
-UX Portfolio
